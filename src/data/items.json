@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Sophie's World",
+        "price": 19.99,
+        "imgUrl": "img/book.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Pride & Prejudice",
+        "price": 29.99,
+        "imgUrl": "img/book2.jpg"
+    }
+]
